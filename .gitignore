@@ -1,0 +1,50 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# OS
+.DS_Store
+
+# =========================
+# IDE / Editor files
+# =========================
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.unityproj
+
+# =========================
+# Unity cache & crash
+# =========================
+sysinfo.txt
+crashlytics-build.properties
+
+# =========================
+# Builds & Addressables
+# =========================
+*.apk
+*.aab
+*.unitypackage
+
+# =========================
+# Test / coverage
+# =========================
+TestResults/
+
+# =========================
+# Exclude everything except these folders
+# (Assets, Packages, ProjectSettings)
+# =========================
