@@ -39,7 +39,7 @@ public class BasitDenizDalgasi : MonoBehaviour
     /// </summary>
     void Update()
     {
-        // 1. Tüm Köþe Noktalarý Üzerinde Döngü:
+
         for (int i = 0; i < guncelKoseNoktalari.Length; i++)
         {
             // Köþe noktasýnýn orijinal konumunu alýyoruz (Lokal Uzayda).
