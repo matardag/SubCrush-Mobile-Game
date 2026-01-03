@@ -24,7 +24,6 @@ public class BasitDenizDalgasi : MonoBehaviour
     /// </summary>
     void Start()
     {
-        // Mesh bileþenini alýyoruz. Mesh, objenin geometrik þeklinin verisidir.
         mesh = GetComponent<MeshFilter>().mesh;
 
         // Köþe noktalarýnýn orijinal (sabit) pozisyonlarýný kaydediyoruz.
